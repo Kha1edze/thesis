@@ -14,3 +14,6 @@
 > http://www.mobiletrain.org/about/BBS/159845.html
 ## Ubuntu GitHub 连接
 > https://blog.csdn.net/Sapphire41/article/details/111514465
+## conda 虚拟环境
+> https://zhuanlan.zhihu.com/p/590651036
+> 
