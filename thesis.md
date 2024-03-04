@@ -16,4 +16,5 @@
 > https://blog.csdn.net/Sapphire41/article/details/111514465
 ## conda 虚拟环境
 > https://zhuanlan.zhihu.com/p/590651036
-> 
+## YOLOv8 安装及使用
+> https://blog.csdn.net/weixin_45662399/article/details/134499605
